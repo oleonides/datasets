@@ -1,0 +1,82 @@
+Red;NivelEducativo;Porcentaje 
+Facebook;Menos del diploma de secundaria;22 
+Facebook;Escuela secundaria;14 
+Facebook;Algo de universidad;36 
+Facebook;Licenciatura;20 
+Facebook;Título de posgrado;8 
+Otra;Menos del diploma de secundaria;4 
+Otra;Escuela secundaria;7 
+Otra;Algo de universidad;43 
+Otra;Licenciatura;32 
+Otra;Título de posgrado;14 
+Digg;Menos del diploma de secundaria;15 
+Digg;Escuela secundaria;10 
+Digg;Algo de universidad;39 
+Digg;Licenciatura;27 
+Digg;Título de posgrado;9 
+Docstoc;Menos del diploma de secundaria;9 
+Docstoc;Escuela secundaria;11 
+Docstoc;Algo de universidad;44 
+Docstoc;Licenciatura;24 
+Docstoc;Título de posgrado;13 
+Flickr;Menos del diploma de secundaria;16 
+Flickr;Escuela secundaria;11 
+Flickr;Algo de universidad;41 
+Flickr;Licenciatura;23 
+Flickr;Título de posgrado;9 
+Frienfeed;Menos del diploma de secundaria;4 
+Frienfeed;Escuela secundaria;4 
+Frienfeed;Algo de universidad;52 
+Frienfeed;Licenciatura;32 
+Frienfeed;Título de posgrado;8 
+Linkedin;Menos del diploma de secundaria;4 
+Linkedin;Escuela secundaria;9 
+Linkedin;Algo de universidad;34 
+Linkedin;Licenciatura;37 
+Linkedin;Título de posgrado;16 
+Mixx;Menos del diploma de secundaria;14 
+Mixx;Escuela secundaria;10 
+Mixx;Algo de universidad;48 
+Mixx;Licenciatura;20 
+Mixx;Título de posgrado;7 
+MySpace;Menos del diploma de secundaria;32 
+MySpace;Escuela secundaria;12 
+MySpace;Algo de universidad;42 
+MySpace;Licenciatura;10 
+MySpace;Título de posgrado;4 
+Ning;Menos del diploma de secundaria;17 
+Ning;Escuela secundaria;10 
+Ning;Algo de universidad;48 
+Ning;Licenciatura;18 
+Ning;Título de posgrado;7 
+Qik;Menos del diploma de secundaria;9 
+Qik;Escuela secundaria;10 
+Qik;Algo de universidad;46 
+Qik;Licenciatura;28 
+Qik;Título de posgrado;7 
+Scribd;Menos del diploma de secundaria;12 
+Scribd;Escuela secundaria;11 
+Scribd;Algo de universidad;40 
+Scribd;Licenciatura;25 
+Scribd;Título de posgrado;13 
+Twitter;Menos del diploma de secundaria;12 
+Twitter;Escuela secundaria;9 
+Twitter;Algo de universidad;47 
+Twitter;Licenciatura;24 
+Twitter;Título de posgrado;8 
+Otra2;No Universidad;45 
+Otra2;Universidad;42 
+Otra2;Graduado. Escuela;13 
+UstreamTV;Menos del diploma de secundaria;16 
+UstreamTV;Escuela secundaria;8 
+UstreamTV;Algo de universidad;50 
+UstreamTV;Licenciatura;19 
+UstreamTV;Título de posgrado;6 
+Yelp;Menos del diploma de secundaria;8 
+Yelp;Escuela secundaria;10 
+Yelp;Algo de universidad;35 
+Yelp;Licenciatura;32 
+Yelp;Título de posgrado;14 
+Youtube;No Universidad;48 
+Youtube;Universidad;39 
+Youtube;Graduado. Escuela;13 

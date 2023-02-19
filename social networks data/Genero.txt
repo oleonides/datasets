@@ -1,0 +1,35 @@
+Red	Genero	Porcentaje
+Facebook 	Masculino	43
+Facebook 	Femenino	57
+Otra	Masculino	48
+Otra	Femenino	52
+Digg	Masculino	64
+Digg	Femenino	36
+Docstoc	Masculino	42
+Docstoc	Femenino	59
+Flickr	Masculino	45
+Flickr	Femenino	55
+Frienfeed	Masculino	45
+Frienfeed	Femenino	55
+Linkedin	Masculino	50
+Linkedin	Femenino	50
+Mixx	Masculino	52
+Mixx	Femenino	48
+MySpace	Masculino	36
+MySpace	Femenino	64
+Ning 	Masculino	41
+Ning 	Femenino	59
+Qik	Masculino	52
+Qik	Femenino	48
+Scribd	Masculino	52
+Scribd	Femenino	48
+Twitter	Masculino	43
+Twitter	Femenino	57
+Otra 2	Masculino	45
+Otra 2	Femenino	55
+UstreamTV	Masculino	34
+UstreamTV	Femenino	66
+Yelp 	Masculino	43
+Yelp 	Femenino	57
+Youtube 	Masculino	50
+Youtube 	Femenino	50

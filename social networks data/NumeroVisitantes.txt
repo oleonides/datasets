@@ -1,0 +1,17 @@
+Red_id	Red	Tipo	EEUA	Mundo
+1	Facebook 	Visitantes únicos:	110	370
+2	Otra	Visitantes únicos:	1.2	4.6
+3	Digg	Visitantes únicos:	9	23
+4	Docstoc	Visitantes únicos:	1.8	4.6
+5	Flickr	Visitantes únicos:	19	73
+6	Frienfeed	Visitantes únicos:	0.68	2.6
+7	Linkedin	Visitantes únicos:	14	31
+8	Mixx	Visitantes únicos:	0.57	2.3
+9	MySpace	Visitantes únicos:	61	120
+10	Ning 	Visitantes únicos:	5.6	18
+11	Qik 	Visitantes únicos:	0.12	0.38
+12	Scribd	Visitantes únicos:	4.2	23
+13	Twitter	Visitantes únicos:	24	66
+14	UstreamTV	Visitantes únicos:	1.5	4.6
+15	Yelp	Visitantes únicos:	9.7	11
+16	Youtube	Visitantes únicos:	78
